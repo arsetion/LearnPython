@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import argparse
 
 def parser_func():
